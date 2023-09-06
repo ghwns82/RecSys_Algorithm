@@ -8,7 +8,7 @@
 6. n_con ? ~ n-1 까지 했을 때 음수 최소
 7. con = p_con & n_con 중 절대값 최대
 
-n일 때 s = con & p_con & n_con & s
+n일 때 s = con & p_con & n_con & s   
 DP는 아직 어렵게 느껴진다. 무작정 규칙을 나열하기보다는 n일 때의 어떤 형식을 갖는지 점화식을 논리적으로 정하는 것이 우선.
 
 # Code
